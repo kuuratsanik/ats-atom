@@ -1,7 +1,7 @@
 {
   "name": "ats-atom",
   "version": "0.2.0",
-  "description": "Mylanguage language support in Atom",
+  "description": "steinwaywhw's ATS syntax highlighting for atom",
   "engines": {
     "atom": "*"
   },
