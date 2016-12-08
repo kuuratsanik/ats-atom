@@ -1,6 +1,6 @@
 {
   "name": "ats-atom",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "steinwaywhw's ATS syntax highlighting for atom",
   "engines": {
     "atom": "*"
